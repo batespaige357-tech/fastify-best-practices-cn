@@ -13,3 +13,8 @@ Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-16T22:4
 Validation: exact original-body retention, 19 unchanged rule files, UTF-8, local Markdown targets, skill frontmatter and MIT notice. No live Fastify service, dependency installation, runtime API test, model behavior evaluation or performance measurement. Rules are a source snapshot; verify version-sensitive APIs against official documentation when applying them. No frontend build performed.
 
 Packaging whitespace correction: removed one extra blank line at the end of rules/deployment.md after Git whitespace validation flagged it. Its content is otherwise unchanged; 18 other rules are exact copies.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。

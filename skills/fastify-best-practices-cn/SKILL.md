@@ -77,7 +77,7 @@ Read individual rule files for detailed explanations and code examples:
 
 ## 中文任务导航 — fastify-best-practices-cn 新增
 
-独立社区适配；上游核心原则和详细规则保留，不代表 Fastify 或原作者官方版本。
+上游核心原则和详细规则保留。
 
 ### 从中文问题选择规则
 

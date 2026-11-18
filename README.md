@@ -2,13 +2,11 @@
 
 **用中文描述后端问题，按需找到 Fastify 实现规则。**
 
-基于 [mcollina/skills 的 fastify-best-practices](https://github.com/mcollina/skills/tree/main/skills/fastify) 的小幅中文适配。独立维护、非官方。
-
-## 保留什么
+## 功能与流程
 
 上游入口正文和19份规则原样保留：插件、路由、schema、错误、hooks、鉴权、测试、性能、日志、TypeScript、数据库、部署等。保留封装、schema优先和最小依赖的原则。
 
-## 小幅补充
+## 中文支持
 
 - 中文需求到相关规则文件的阅读导航，减少盲目加载整套材料。
 - 先确认项目版本与结构，再套用对应 API，不擅自升级框架。
@@ -25,7 +23,9 @@ npx skills add batespaige357-tech/fastify-best-practices-cn --skill fastify-best
 
 这是开发规则包，不自带 Fastify 服务或依赖。具体实现需要目标项目的 Node.js、Fastify 与测试环境，版本以项目为准。不全局安装技能，不自动启动服务，不附示例网页、截图或前后对比。
 
-## 来源与验证
+## 来源与许可
+
+基于 [mcollina/skills 的 fastify-best-practices](https://github.com/mcollina/skills/tree/main/skills/fastify)，由本仓库维护。
 
 MIT，保留 Matteo Collina 版权和完整许可。[CHANGES.md](CHANGES.md) 记录来源提交与改动。
 
